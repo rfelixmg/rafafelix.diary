@@ -1,0 +1,49 @@
+# 📅 2025-10-31 | Daily Diary
+
+## 🔭 Focus of the Day
+> Review paper for IEEE Transactions on Big Data, organize research direction (POV:ResearchStudio), and draft research task structure.
+
+## ✅ Key Wins
+- 🎯 Drafted core Zotero taxonomy and research tagging system (#infra)
+- 🧠 Clarified naming + mission for POV:ResearchStudio (#insight)
+- 🧪 Reviewed intro and contribution framing of Big Data paper (#paper_review)
+
+## 🛠️ Deep Work Blocks
+| Start | End   | Activity                                  | Tag              |
+|-------|-------|-------------------------------------------|------------------|
+| 15:00 | 16:00 | Re-read paper + reviewed Big Data form    | #paper_review    |
+| 16:00 | 17:00 | Created agent prompts and conf. strategy  | #infra           |
+| 17:30 | 18:30 | Finalized Zotero tags + wrote README.md   | #infra           |
+
+## 📚 Research Log
+- **Paper(s) Read**:  
+  - *Posterior-Mamba for Multi-Agent Systems* – focuses on replacing Transformers with SSMs like Mamba; unclear scale relevance to Big Data. (#paper_review, #method)
+- **Ideas Sparked**:  
+  - Use POV:ResearchStudio as umbrella for my safety+planning+vision research (#idea)
+  - Build a conf-tracking agent to keep updated with top 20 robotics/ML/vision confs (#infra)
+
+## 🧵 Content Creation
+- **Drafted**:  
+  - Post idea around 1X Neo + robotics visibility (#draft)
+- **Published**:  
+  - None
+- **Engagement Goals**:
+  - Position myself as aware, connected, and critically engaged in humanoid robotics conversation (#content)
+
+## 🌱 Japanese Practice
+- **Lesson / Activity**: Lesson 10-1 – 「A を（wear: verb て）いる」 grammar structure  
+- **Time spent**: 1 hour  
+- **Interesting Note**: Differentiated verbs like きる (wear), かける (glasses), かぶる (hat), はく (pants), する (accessories)
+
+## 🧠 Reflections
+- Felt slow to start — didn’t get to computer until 15:00
+- Once active, got meaningful systems in place (tagging, group name, etc.)
+- Partial progress on review; could finish it tomorrow with tighter session
+
+## 🗂️ Tags
+`#research` `#content` `#japanese` `#infra` `#paper_review` `#deep_work` `#insight` `#todo_revisit`
+
+## 📍 Tomorrow Priorities
+- [ ] Finalize Big Data review form and submit
+- [ ] Begin GMI NeurIPS scouting (papers for pilot content)
+- [ ] Review at least 1 GitHub simulation environment
